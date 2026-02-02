@@ -7,6 +7,7 @@ import ToastProvider from '@/providers/ToastProvider';
 import AuthProvider from '@/providers/AuthProvider';
 import FavoritesProvider from '@/providers/FavoritesProvider';
 import ProgressProvider from '@/providers/ProgressProvider';
+import { Analytics } from '@vercel/analytics/next';
 import React from 'react';
 
 const geistSans = Geist({
@@ -44,6 +45,7 @@ export default function RootLayout({
                         </FavoritesProvider>
                     </AuthProvider>
                 </QueryProvider>
+                <Analytics />
             </body>
         </html>
     );
