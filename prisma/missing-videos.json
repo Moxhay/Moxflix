@@ -1,0 +1,50 @@
+[
+    {
+        "series": "CSI: Crime Scene Investigation",
+        "videos": ["https://youtu.be/KaiZC-YyIvk?si=A6omMo6EdrnE52W1","https://youtu.be/K9USPpByvsY?si=gw6sf3q27oDi1cQ4","https://youtu.be/zpGb9SAk4xs?si=BmATvgQ9XNWdk8BH","https://youtu.be/xqBLOrlae1o?si=39ApsCOVbAh-HjX6","https://youtu.be/wBTY1u0opRI?si=RRKgv_emPebuj8ZD"]
+    },
+    {
+        "series": "The X-Files",
+        "videos": ["https://youtu.be/tw7Xn35Q-1A?si=Jx0wP9xjuwan5OGJ","https://youtu.be/P9WK4itamSw?si=SNLksRdLRzhFJnVU","https://youtu.be/pQEkEhLBYBg?si=uL6lFsXsKIS6LYam","https://youtu.be/xXbJR6fJDeo?si=LsixySCfCk-q0WbG","https://youtu.be/ifkjcS9roow?si=m_7iv8sR7Ov108Ws"]
+    },
+    {
+        "series": "The Mentalist",
+        "videos": ["https://youtu.be/DaOD8-J4Kt8?si=UTyPxDC5VPxunWtv","https://youtu.be/KJPwmtg08Zo?si=eYRdzvBRrRoAJGXO","https://youtu.be/w0-Pk19Ff_U?si=a8MJVY35rrVviMCu","https://youtu.be/7QlnEE76MgA?si=j72TZzDxQk5_QGMm","https://youtu.be/_bR8bwj4oJc?si=-Jv9o_DVRQIihYVS"]
+    },
+    {
+        "series": "Lost",
+        "videos": ["https://youtu.be/KTu8iDynwNc?si=By-t4lv8zxCcEAfm","https://youtu.be/wLN2W6_eEvg?si=UNvrVD6Lk_BlYkZh","https://youtu.be/wZ_lvQEsJ0c?si=2JThJq45-caKE70R"]
+    },
+    {
+        "series": "Bones",
+        "videos": ["https://youtu.be/-Re_SK4BSS0?si=Vn9AyozYbdMq4SJ4","https://youtu.be/5KMszuAc8WQ?si=7l2SvEYbOrOcUh_M","https://youtu.be/3SNhXLIj8R0?si=oz2iaJXdT5DXw8UT"]
+    },
+    {
+        "series": "FROM",
+        "videos": ["https://youtu.be/pDHqAj4eJcM?si=xm0DffyD_aWRfRZ2","https://youtu.be/QYwb-Vk4FlA?si=pnL1Nx5gLGbIbl8D","https://youtu.be/kyewNME3hm8?si=IvYO-uVdE-2LXR2Z"]
+    },
+    {
+        "series": "Watch What Happens Live with Andy Cohen",
+        "videos": ["https://youtu.be/UC7jXZMIeL0?si=JEjSjlcnpCaZ0ttm","https://youtu.be/CtwArZGDmeQ?si=K1kE8dYCIIzBVqyY","https://youtu.be/t0LcGNTM0Yg?si=XQCVsObYlmH6XcA6","https://youtu.be/VRVe1pgkaU4?si=XXIOT9H7sSF6dkIv"]
+    },
+    {
+        "series": "Shameless",
+        "videos": ["https://youtu.be/9tvkYS5cA58?si=0RZcK4rzPjPes6WW","https://youtu.be/4GE7fFDNGMA?si=_0nXOH-V09l0QVm6","https://youtu.be/E39os26piPE?si=OEsdeSp8DvFDxBaQ","https://youtu.be/cnQ8cnEnvZA?si=2f7z7A_LlS6rX6q-"]
+    },
+    {
+        "series": "Law & Order",
+        "videos": ["https://youtu.be/Tc4FDG9Kbxg?si=MqN3PYIhQjxU7Ttb","https://youtu.be/YHCSzN_G_14?si=X7tLD_OM_LVwNZH2","https://youtu.be/2ZsuiYjZU8Y?si=2X9AIobzbzSovRSQ","https://youtu.be/qGI7VsF-gRA?si=K2I2En2rPphex2-f"]
+    },
+    {
+        "series": "HIS & HERS",
+        "videos": ["https://youtu.be/8_szlvBLll0?si=su8Y18zadrFyY4_q"]
+    },
+    {
+        "series": "Spartacus: House of Ashur",
+        "videos": ["https://youtu.be/09l-Vwha48c?si=c_ytqwXcK9ON8Rkq","https://youtu.be/ODRyRS3Wb7I?si=hIFgljAmggVTkqAD","https://youtu.be/T03aWKGuIAU?si=04cHJ6PdouzQC2QO"]
+    },
+    {
+        "series": "Homeland",
+        "videos": ["https://youtu.be/KyFmS3wRPCQ?si=5-k3dFTOYOPbjFJJ","https://youtu.be/Xh_TPjZJCRc?si=3ZxHmNl0qo3NJZ4e","https://youtu.be/l6Gwn0yuk3g?si=Qkllj0tKmZhHxEVH"]
+    }
+]

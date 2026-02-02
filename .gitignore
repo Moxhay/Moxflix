@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+nul
 
 # debug
 npm-debug.log*
@@ -39,3 +40,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# SWC cache
+.swc/
+
+# HTTP test files
+.http
+
+# Prisma generated
+/src/generated/prisma
